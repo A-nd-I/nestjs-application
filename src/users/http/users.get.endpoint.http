@@ -1,0 +1,9 @@
+## Users Requests
+
+GET http://localhost:3000/users
+
+GET http://localhost:3000/users/1234
+
+GET http://localhost:3000/users/1234
+?limit=10
+&offset=20
